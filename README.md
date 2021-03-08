@@ -3,7 +3,7 @@
    - npm init -y
    - npm install webpack webpack-cli --save-dev
 
-2. Важно обращаться внимания на пути в файле webpack.config.js
+2. Важно обращать внимания на пути в файле webpack.config.js
 
 3. Так же в проекте должен лежать файл script.js с содержимым:
 ```javascript
